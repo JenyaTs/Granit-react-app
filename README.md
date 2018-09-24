@@ -1,3 +1,5 @@
-# Granit web-page, build with react.js
+# Granit web-page
+
+Build with react
 
 
